@@ -20,25 +20,26 @@ Campus Network Topology Screenshots
 Here are the visual representations of the campus network topology as designed in Cisco Packet Tracer, located in the SNAPS folder.
 
 Screenshot 1: Main Server Room
-Screenshot 1
+![Screenshot 1](https://github.com/user-attachments/assets/9469e745-3568-4f09-941b-3ff16d20cb9c)
+
 
 Screenshot 2: Advance Block
-Screenshot 2
+![Screenshot 2](https://github.com/user-attachments/assets/7dfb97df-7ce6-4605-81d4-19a39eda00db)
 
 Screenshot 3: St Paul's Block
-Screenshot 3
+![Screenshhot 3](https://github.com/user-attachments/assets/bc2ba556-9cc7-456b-ba07-52ce3467a5d1)
 
 Screenshot 4: Hostel blocks
-Screenshot 4
+![Screenshot 4](https://github.com/user-attachments/assets/1057f13f-4d50-4df9-b53c-de6c23e59150)
 
 Screenshot 5: Academic Block 4
-Screenshot 5
+![Screenshot 5](https://github.com/user-attachments/assets/2a8cbd02-a956-4a3c-b165-48bf55f5cde8)
 
 Screenshot 6: Library Building
-Screenshot 6
+![Screenshot 6](https://github.com/user-attachments/assets/bdb3c98d-c796-4509-9fe9-68e1b7bfcfd5)
 
 Screenshot 7: Block 18
-Screenshot 7
+![Screenshot 7](https://github.com/user-attachments/assets/f3494e25-3a41-4540-ad8a-8189ba67ab71)
 
 Files Included in the Repository
 Packet Tracer Network File: A .pkt file containing the simulated network topology.
