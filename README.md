@@ -80,5 +80,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 For any inquiries or further assistance regarding this project, please contact:
 
 - **Name**: Dhayabaran M
-- **Email**: [Dhayabaran0307@gmail.com](mailto:dhayabaran0307@gmail.com)
+- **Email**: [dhayabaran0307@gmail.com](mailto:dhayabaran0307@gmail.com)
 
