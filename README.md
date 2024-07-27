@@ -34,7 +34,7 @@ Here are the visual representations of the campus network topology as designed i
 
 #### Screenshot 1: Main Server Room
 
-![Screenshot 1](https://github.com/user-attachments/assets/a38b4801-4a7e-4a57-9e6a-a6876e81612e)
+![Screenshot 1](https://github.com/user-attachments/assets/7a30cdee-fcdb-43d3-92b2-60e450c49dec)
 
 #### Screenshot 2: Advance Block
 
